@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blog"
+title: ""
 ---
 
 I'm undergrad student in the [automation and robotics department]( http://imiat.vlsu.ru/) at vladimir state university
