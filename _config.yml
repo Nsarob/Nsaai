@@ -17,12 +17,12 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "damur.pd", title: "CV", icon: home }
-  - {title: "lab", url: "http://tattoosalon33.ru/" }
+  - {title: "lab", url: "https://roboticsdamour447.wixsite.com/my-site" }
   - {title: "Blog", file: "blog.md" }
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:roboticsdamour447@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/nsarob.github.io/contrast"}
+  - {title: Github, icon: github, url: "https://github.com/Nsarob"}
   - {title: Subscribe, icon: rss, url: "https://twitter.com/nsanzimfurajean"}
 
 comments:
