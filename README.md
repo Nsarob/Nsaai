@@ -69,8 +69,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "mailto:roboticsdamour447.noreply.github.com"}
+  - {title: Github, icon: github, url: "https://https://nsarob.github.io/Nsaai/"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
