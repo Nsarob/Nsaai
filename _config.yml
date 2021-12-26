@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "damur.pd", title: "CV", icon: home }
-  - {title: "lab", url: "https://roboticsdamour447.wixsite.com/my-site" }
+  - {title: "lab", url: "https://roboticsdamour447.wixsite.com/test-net" }
   - {title: "Projects", file: "projects.md" }
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
