@@ -1,12 +1,7 @@
- ---
-title:  "On the university of thoughts"
-mathjax: true
-layout: post
-categories:
- -github
- -website
 ---
- 
+title:  "on the university of thoughts"
+layout: post
+---
  
  
  
