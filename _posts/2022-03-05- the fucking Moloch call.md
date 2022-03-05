@@ -5,7 +5,7 @@ categories:
  -github
  -website
  
- ## you read the Allen Ginsberg’s famous poem on Moloch [link]{https://slatestarcodex.com/2014/07/30/meditations-on-moloch/}
+  ##  you read the Allen Ginsberg’s famous poem on Moloch [link]{https://slatestarcodex.com/2014/07/30/meditations-on-moloch/}
  
  
  The implicit question is – if everyone hates the current system, who perpetuates it? And Ginsberg answers: “Moloch”. 
