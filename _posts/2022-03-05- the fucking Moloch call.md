@@ -6,11 +6,21 @@ layout: post
 ### you read the famous Allen Gensberg's poem on Moloch
 [link] {https://slatestarcodex.com/2014/07/30/meditations-on-moloch/}
  
+
+ There’s a passage in the Principia Discordia where Malaclypse complains to the Goddess about the evils of human society. 
+ “Everyone is hurting each other, the planet is rampant with injustices, whole societies plunder groups of their own people,
+ mothers imprison sons, children perish while brothers war.”
+ 
+ The Goddess answers: “What is the matter with that, if it’s what you want to do?”
+ 
+ Malaclypse: “But nobody wants it! Everybody hates it!”
+
+ Goddess: “Oh. Well, then stop.”
+ 
  The implicit question is; if everyone hates the current system, who perpetuates it?
  
  ### And Ginsberg answers:
  Moloch.
- 
  
  It’s powerful not because it’s correct – nobody literally thinks an ancient Carthaginian demon causes everything but because
  thinking of the system as an agent throws into relief the degree to which the system isn’t an agent.Bostrom makes an offhanded 
