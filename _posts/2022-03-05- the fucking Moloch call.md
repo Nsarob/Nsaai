@@ -23,10 +23,9 @@ layout: post
  Moloch.
  
  It’s powerful not because it’s correct – nobody literally thinks an ancient Carthaginian demon causes everything but because
- thinking of the system as an agent throws into relief the degree to which the system isn’t an agent.Bostrom makes an offhanded 
+ thinking of the system as an agent throws into relief the degree to which the system isn’t an agent. Bostrom makes an offhanded 
  reference of the possibility of a dictatorless dystopia, one that every single citizen including the leadership hates but which 
  nevertheless endures unconquered. 
- 
  
  
  It’s easy enough to imagine such a state- Imagine a country with two rules: first, every person must spend eight hours a day giving 
@@ -51,3 +50,5 @@ coordination is hard From a god’s-eye-view, we can agree that cooperate-cooper
 ## 3. The fish farming story
 
 ## 4. The Malthusian trap
+
+## 5. Arms races
