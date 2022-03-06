@@ -27,15 +27,15 @@ else will kill them, and so on. Every single citizen hates the system, but for l
 From a god’s-eye-view, we can optimize the system to “everyone agrees to stop doing this at once”, but no one within the system is able 
 to effect the transition without great risk to themselves.
 
-####  real world examples of similar multipolar traps to really hammer in how important this is
+### real world examples of similar multipolar traps to really hammer in how important this is
 
 
-### 1The Prisoner’s Dilemma
+## 1. The Prisoner’s Dilemma
 coordination is hard From a god’s-eye-view, we can agree that cooperate-cooperate is a better outcome than defect-defect, but neither prisoner within the system can make it happen.
 
- ###  2. Dollar auctions 
+ ## 2. Dollar auctions 
  Using some weird auction rules, you can take advantage of poor coordination to make someone pay $10 for a one dollar bill. From a god’s-eye-view, clearly people should not pay $10 for a on-er.
  
-###   3. The fish farming story
+## 3. The fish farming story
 
-###   4. The Malthusian trap
+## 4. The Malthusian trap
