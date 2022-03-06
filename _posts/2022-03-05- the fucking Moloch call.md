@@ -19,7 +19,7 @@ layout: post
  
  The implicit question is; if everyone hates the current system, who perpetuates it?
  
- ### And Ginsberg answers:
+ ### . And Ginsberg answers:
  Moloch.
  
  It’s powerful not because it’s correct – nobody literally thinks an ancient Carthaginian demon causes everything but because
