@@ -1,10 +1,7 @@
 ---
-title:  "fuck the Moloch call"
+title:  "The fuckin Moloch call"
 layout: post
-categories:
- -github
- -website
---- 
+---
 
  
   ##  you read the Allen Ginsberg’s famous poem on Moloch [link]{https://slatestarcodex.com/2014/07/30/meditations-on-moloch/}
