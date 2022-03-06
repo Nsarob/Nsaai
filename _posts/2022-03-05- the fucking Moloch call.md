@@ -27,7 +27,7 @@ else will kill them, and so on. Every single citizen hates the system, but for l
 From a god’s-eye-view, we can optimize the system to “everyone agrees to stop doing this at once”, but no one within the system is able 
 to effect the transition without great risk to themselves.
 
-### real world examples of similar multipolar traps to really hammer in how important this is
+### Real world examples of similar multipolar traps to really hammer in how important this is
 
 
 ## 1. The Prisoner’s Dilemma
