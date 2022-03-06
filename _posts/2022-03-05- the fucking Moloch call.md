@@ -3,11 +3,13 @@ title:  "The fuckin Moloch call"
 layout: post
 ---
 
-you read the famous Allen Gensberg's poem on Moloch [link] {https://slatestarcodex.com/2014/07/30/meditations-on-moloch/}
+### you read the famous Allen Gensberg's poem on Moloch
+[link] {https://slatestarcodex.com/2014/07/30/meditations-on-moloch/}
  
  The implicit question is; if everyone hates the current system, who perpetuates it?
- ### And Ginsberg answers: 
-                          Moloch.
+ 
+ ### And Ginsberg answers:
+ Moloch.
  
  
  It’s powerful not because it’s correct – nobody literally thinks an ancient Carthaginian demon causes everything but because
