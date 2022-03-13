@@ -42,7 +42,7 @@ to effect the transition without great risk to themselves.
 
 
 ## 1. The Prisoner’s Dilemma
-coordination is hard From a god’s-eye-view, we can agree that cooperate-cooperate is a better outcome than defect-defect, but neither prisoner within the system can make it happen.
+coordination is hard. From a god’s-eye-view, we can agree that cooperate-cooperate is a better outcome than defect-defect, but neither prisoner within the system can make it happen.
 
 ## 2. Dollar auctions 
  Using some weird auction rules, you can take advantage of poor coordination to make someone pay $10 for a one dollar bill. From a god’s-eye-view, clearly people should not pay $10 for a on-er.
