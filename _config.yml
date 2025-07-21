@@ -1,35 +1,46 @@
 title: "Damour Nsanzimfura AI Inc"
 author: "Nsarob"
 description: "Vladimir State University"
-permalink: /:title/
 lang: "en"
+permalink: /:title/
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
-# Layout
-
-show_excerpts: false        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "damur.pd", title: "CV", icon: home }
-  - {title: "lab", url: "https://www.thebigsundaecnft.com/" }
-  - {title: "Projects", file: "projects.md" }
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:roboticsdamour447@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/Nsarob"}
-  - {title: Subscribe, icon: rss, url: "https://www.linkedin.com/in/damour-nsanzimfura/"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
+# Theme Settings
+remote_theme: cotes2020/jekyll-theme-chirpy
+theme: null
 
 plugins:
- - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-archives
 
-theme: jekyll-theme-slate
+# UI Settings
+toc: true
+paginate: 5
+paginate_path: "/page:num/"
+
+# Collections
+collections:
+  lab:
+    output: true
+  projects:
+    output: true
+
+# Navigation (Chirpy tabs use _tabs directory)
+# We'll manage menu via tab files
+
+# Footer Social Links
+social:
+  email: roboticsdamour447@gmail.com
+  github: Nsarob
+  linkedin: damour-nsanzimfura
+
+# Comments (optional)
+#disqus:
+#  shortname: your-disqus-shortname
+
+# Optional External Tools
+# google_analytics: UA-XXXXXXXX-X
