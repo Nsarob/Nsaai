@@ -1,5 +1,5 @@
-title: "Nsarob ai"
-author: "Nsa j damur"
+title: "Damour Nsanzimfura AI Inc"
+author: "Nsarob"
 description: "Vladimir State University"
 permalink: /:title/
 lang: "en"
@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:roboticsdamour447@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/Nsarob"}
-  - {title: Subscribe, icon: rss, url: "https://twitter.com/nsanzimfurajean"}
+  - {title: Subscribe, icon: rss, url: "https://www.linkedin.com/in/damour-nsanzimfura/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
